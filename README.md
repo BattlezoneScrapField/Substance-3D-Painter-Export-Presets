@@ -1,9 +1,9 @@
-<img width=60% src="assets/bzcc.png"> <img width=30% src="assets/substance-painter.png">
+<img width=50% src="assets/substance-painter.png">
 
 <br>
 
-# PBR SpecGloss Export Setting Presets
-Here is how to setup Substance Painter PBR SpecGloss Presets designed for **[Battlezone Combat Commander](https://battlezonecombatcommander.com/en)** texture-making.
+## `Substance 3D Painter` Export Settings Presets
+Here is how to setup Substance Painter PBR SpecGloss Presets designed (primarily) for **[Battlezone Combat Commander](https://battlezonecombatcommander.com/en)** texture-making.
 
 What are these Export Presets used for?
 - Generating a usable Normal Map from the Height Map data (that can be used to bake other texture maps).
@@ -17,14 +17,14 @@ A typical SubstancePainter workflow:
 - Bake Texture-Maps (AO, etc)
 - Export Textures into BZCC (Diffuse, Normal, SpecGloss, Emissive)
 
-**_The information to make and save these presets were given by various BZCC Community Members. Those had prior knowledge with Substance Painter, so all credit is due to them. Thank you to those for sharing the knowledge that has gotten us all this far._**
+**_The information to make and save these presets were given by various BZ Community Members. Those had prior knowledge with Substance Painter, so all credit is due to them. Thank you to those for sharing the knowledge that has gotten us all this far._**
 
 <br>
 
 ## Getting Started
 
 ### Downloading Preset Files:
-You can browse or download the specific presets as you wish in the [Releases](https://github.com/LordBramster/BZCC-Substance-Painter-Export-Presets/releases) tab.
+You can browse or download the specific presets as you wish in the `Releases` tab.
 Or, you can download them as listed below:
 - [Height-Normals Preset](BZCC-Height-Normals-Export.spexp)
 - [SpecGloss Maps Preset](BZCC-PBR-SpecGloss-Export.spexp)
@@ -46,7 +46,7 @@ That's it! They are ready for use.
 
 <br>
 
-## Demonstration
+## DEMO
 _Note: This was demonstrated using the Steam Version_
 
 ### Reminder: How to Export
